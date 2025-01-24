@@ -8,7 +8,7 @@ cd go/bin
 
 sudo mv gf /usr/local/bin
 
-cd ~/
+cd ~
 
 mkdir .gf
 
@@ -16,4 +16,4 @@ git clone https://github.com/BlueSecc/gf/
 
 cd gf
 
-sudo mv * ~/.gf
+sudo mv * ~.gf
