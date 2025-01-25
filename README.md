@@ -2,6 +2,7 @@
 
 How to install gf :
 '''sh
+
 go install github.com/tomnomnom/gf@latest
 
 cd go/bin
