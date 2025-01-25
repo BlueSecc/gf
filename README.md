@@ -1,7 +1,6 @@
 # gf
 
 How to install gf :
-'''sh
 
 go install github.com/tomnomnom/gf@latest
 
@@ -18,4 +17,3 @@ git clone https://github.com/BlueSecc/gf/
 cd gf
 
 sudo mv * ~.gf
-'''
